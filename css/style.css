@@ -742,7 +742,7 @@ h3.my-profession
     }
 }
 
-@media (max-width: 376px) {
+@media (max-width: 480px) {
 
     .about .about-content .personal-info {
         flex: 0 0 100%;
